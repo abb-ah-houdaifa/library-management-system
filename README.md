@@ -54,7 +54,7 @@ The application will start by default on `http://localhost:8080`
 - **GET /editors/{editorId}**: Fetch an editor by ID
 - **POST /editors**: Add a new editor
 - **PUT /editors/{editorId}**: Update an existing editor by ID
-## BooksController Endpoints
+### BooksController Endpoints
 - **GET /books**: Fetch all the books
 - **GET /books/{bookId}**: Fetch a book by ID
 - **POST /books**: Add a new book
